@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-05-28",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2277,
+  "m3u8_source_count": 20,
+  "cover_policy": "Pages reference top-level 1.jpg to 150.jpg cyclically; no extra JPG/PNG/WebP covers were generated."
+}
